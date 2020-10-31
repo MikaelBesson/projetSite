@@ -1,0 +1,41 @@
+body#acceuil {
+    color-rendering: black;
+    background-color: white;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: 100% 50%;
+}
+body#sectionArk {
+    color-rendering: black;
+    background-color: white;
+    background-image: url("backdino.jpg");
+}
+body#section7Days {
+    color-rendering: black;
+    background-color: white;
+    background-image: url("back7days.jpg");
+    background-position: center;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Bloody;
+    font-size: xx-large;
+}
+p#intro {
+    color: white;
+    text-align: center;
+}
+p#introArk {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+p#intro7days {
+    color: yellow;
+    text-align: center;
+    font-size: xx-large;
+}
+ul#menu {
+    color: red;
+}
