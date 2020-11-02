@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a5d8e9-1d69-46f8-83b3-107b8f28ed46" name="Default Changelist" comment="" />
+    <list default="true" id="20a5d8e9-1d69-46f8-83b3-107b8f28ed46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acceuil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Acceuil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeServ.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeServ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section7Days.html" beforeDir="false" afterPath="$PROJECT_DIR$/section7Days.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sectionArk.html" beforeDir="false" afterPath="$PROJECT_DIR$/sectionArk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jdwY2vURX3xf7YAhuaESnFfLmN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/github/Exo-5-HTML-Attributs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exo-5-HTML-Attributs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,6 +60,7 @@
       <updated>1604147329262</updated>
       <workItem from="1604147332304" duration="1716000" />
       <workItem from="1604158683289" duration="2875000" />
+      <workItem from="1604304762751" duration="6026000" />
     </task>
     <servers />
   </component>
