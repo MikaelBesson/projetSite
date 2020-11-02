@@ -1,50 +1,58 @@
-body#acceuil {
-    color-rendering: black;
-    background-color: white;
+/** image background */
+
+#acceuil {
     background-image: url("background.jpg");
-    background-attachment: fixed;
-    background-position: 100% 50%;
+    background-size: cover;
 }
-body#sectionArk {
-    color-rendering: black;
-    background-color: white;
+
+#sectionArk {
     background-image: url("backdino.jpg");
     background-size: cover;
 }
-body#section7Days {
-    color-rendering: black;
-    background-color: white;
+
+#section7Days {
     background-image: url("back7days.jpg");
     background-size: auto;
 }
+
 body#listServ {
     background-image: url("backServeur.jpg");
     background-size: cover;
 }
+/** titre */
+
 h1 {
     color: red;
     text-align: center;
     font-family: bloody;
     font-size: xx-large;
 }
+/** paragraphe */
+
 p#intro {
+    font-size: x-large;
     color: white;
     text-align: center;
 }
+
 p#introArk {
     color: white;
     text-align: center;
     font-size: xx-large;
 }
+
 p#intro7days {
     color: #010729;
     text-align: center;
     font-size: xx-large;
 }
-ul#menu {
+
+#menu {
     color: red;
 
+
 }
+
 .shadow1 {
     background: rgba(35, 35, 35, 1);
     text-shadow:
@@ -57,13 +65,17 @@ ul#menu {
             0px 0px 55px rgba(73, 255, 24, 1),
             0px 0px 75px rgba(73, 255, 24, 1);
 }
+
 .cmenu {
     color: #12dd2d;
+    text-decoration-color: red;
 }
+
 .tmenu {
     color: #f1071b;
     text-shadow: 3px 3px 5px rgba(128, 0, 0, 1);
 }
+
 div#Imenu {
     border-style: double;
     border-width: 10px;
@@ -72,22 +84,30 @@ div#Imenu {
     width: 200px;
     background-color: #b07b6d;
 }
-span {
+
+.titre {
     border-style: groove;
     border-color: yellow;
     border-radius: 20px;
     color: #de0dd4;
     background-color: black;
-    
+
 }
+
 .lienRetour {
     color: #12dd2d;
+    text-decoration-color: red;
 }
+
 .tableau {
     border-style: dashed;
     border-color: red;
     border-radius: 30px;
-    width: 400px;
+    width: 300px;
     background-color: black;
+}
+
+div span {
+    color: red;
 }
 
