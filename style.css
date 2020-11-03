@@ -24,7 +24,7 @@ body#listServ {
 h1 {
     color: red;
     text-align: center;
-    font-family: bloody;
+    font-family: "WOODCUTTER DRIPPING CLASSIC FONT";
     font-size: xx-large;
 }
 /** paragraphe */
@@ -49,8 +49,27 @@ p#intro7days {
 
 #menu {
     color: red;
+}
 
+.serveur7days {
+    width: 200px;
+    margin-top: 6px;
+    margin-bottom: -85px;
+}
 
+.serveurArk {
+    border-right-width: 0px;
+    border-right-style: solid;
+    margin-right: 0px;
+    margin-left: 392px;
+    margin-top: -127px;
+    margin: 100px, 0, 0, 0;
+    display: inline-block;
+}
+
+.autreServeur {
+    margin-left: 763px;
+    margin-top: -162px;
 }
 
 .shadow1 {
@@ -94,9 +113,23 @@ div#Imenu {
 
 }
 
-.lienRetour {
-    color: #12dd2d;
+
+.lienRetour a {
+    color: #f58d02;
     text-decoration-color: red;
+    text-shadow: 10px 10px 10px rgba(0, 128, 0, 1);
+
+}
+
+.lienRetour {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 173px;
+    background-color: black;
+    width: 300px;
+    margin: 500px auto;
+    margin-bottom: 0;
+
 }
 
 .tableau {
